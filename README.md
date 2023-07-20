@@ -19,6 +19,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | **Tarea7** *Hora y dia* |
+| Nombre | **Tarea 7** *Hora y dia* |
 | Descripción  |  La aplicación "Hora y Día" aprovecha las capacidades de actualización en tiempo real de Wear OS, lo que significa que la hora y el día se actualizarán automáticamente a medida que pase el tiempo.  |
 |  Fecha de Carga | 13/06/23  |
